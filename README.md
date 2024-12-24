@@ -14,16 +14,19 @@
 <a href="https://instagram.com/buwaneka_99_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buwaneka_99_" height="30" width="40" /></a>
 </p>
 
-<table>
+
+<table align="center">
   <tr>
-    <td>
+    <td width="50%" align="center">
       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buwaneka99&show_icons=true&theme=radical&locale=en" alt="buwaneka99" /></p>
       <be>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buwaneka99&" alt="buwaneka99" /></p>
     </td>
+    <td align="center">
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buwaneka99&show_icons=true&theme=dark&locale=en&layout=compact" alt="buwaneka99" /></p>
+    </td>
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buwaneka99&show_icons=true&theme=dark&locale=en&layout=compact" alt="buwaneka99" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buwaneka99" alt="buwaneka99" /></a> </p>
