@@ -41,17 +41,18 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<table align="center">
+<table align="center" >
   <tr>
     <td width="50%" align="center">
       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buwaneka99&show_icons=true&theme=radical&locale=en" alt="buwaneka99" /></p>
+      <br>
+      <br>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buwaneka99&" alt="buwaneka99" /></p>
+      <br>
     </td>
-    <td align="center">
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buwaneka99&show_icons=true&theme=dark&locale=en&layout=compact" alt="buwaneka99" /></p>
+    <td width="50%" align="center">
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=buwaneka99&show_icons=true&theme=dark&locale=en&layout=compact" alt="buwaneka99" /></p>
     </td>
   </tr>
 </table>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buwaneka99" alt="buwaneka99" /></a> </p>
 
