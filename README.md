@@ -12,19 +12,18 @@
 </a>
 
 
+- 🎓 Undergraduate @ SLIIT
+
 - 💎 I’m currently learning **Full-Stack Development**
 
-
 - 💡 Exploring **React, Node.js, and MongoDB**
-
  
 - 💬 Ask me about **Web Development and APIs**
 
-
 - ⚡ Fun fact: **I love to solve coding challenges!**
 
-
 - 📫 Reach me at **[buwanekawijesinghe1@gmail.com](mailto:buwanekawijesinghe1@gmail.com)**
+<br>
 
 ## Languages and Tools: 
 
