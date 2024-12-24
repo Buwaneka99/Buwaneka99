@@ -12,7 +12,7 @@
 </a>
 
 
-- 🎓 Undergraduate @ SLIIT
+- 🎓 I'm Undergraduate @ SLIIT
 
 - 💎 I’m currently learning **Full-Stack Development**
 
@@ -25,9 +25,38 @@
 - 📫 Reach me at **[buwanekawijesinghe1@gmail.com](mailto:buwanekawijesinghe1@gmail.com)**
 <br>
 <br>
-<br>
 
-## Languages and Tools: 
+---
+
+<h3 align="center">My GitHub Statistics 🔥</h3>
+
+<table align="center" >
+  <tr>
+    <td width="50%" align="center">
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buwaneka99&show_icons=true&theme=radical&locale=en" alt="buwaneka99" /></p>
+      <br>
+      <br>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buwaneka99&" alt="buwaneka99" /></p>
+      <br>
+    </td>
+    <td width="50%" align="center">
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=buwaneka99&show_icons=true&theme=dark&locale=en&layout=compact" alt="buwaneka99" /></p>
+    </td>
+  </tr>
+</table>
+
+---
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/buwaneka-wijesinghe-37bb07285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buwaneka-wijesinghe-37bb07285" height="30" width="40" /></a>
+<a href="https://fb.com/dinethbuwaneka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinethbuwaneka" height="30" width="40" /></a>
+<a href="https://instagram.com/buwaneka_99_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buwaneka_99_" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="center">Languages and Tools </h3>
 
 <table align="center" style="border: none;">
   <tr>
@@ -85,31 +114,6 @@
 </table>
 
 <br>
-
-## <img src="C:\Users\dinet\Downloads\8113f333b5fef96ca0e5488334b451d0.gif" width="60"> Connect with me
-
-<p align="center">
-<a href="https://linkedin.com/in/buwaneka-wijesinghe-37bb07285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buwaneka-wijesinghe-37bb07285" height="30" width="40" /></a>
-<a href="https://fb.com/dinethbuwaneka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinethbuwaneka" height="30" width="40" /></a>
-<a href="https://instagram.com/buwaneka_99_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buwaneka_99_" height="30" width="40" /></a>
-</p>
-
-## <img src="" width="30"><b> My Github Stats </b>
-
-<table align="center" >
-  <tr>
-    <td width="50%" align="center">
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buwaneka99&show_icons=true&theme=radical&locale=en" alt="buwaneka99" /></p>
-      <br>
-      <br>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buwaneka99&" alt="buwaneka99" /></p>
-      <br>
-    </td>
-    <td width="50%" align="center">
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=buwaneka99&show_icons=true&theme=dark&locale=en&layout=compact" alt="buwaneka99" /></p>
-    </td>
-  </tr>
-</table>
 
 ---
 
