@@ -1,17 +1,28 @@
 <h1 align="center">Hi 👋, I'm Buwaneka Wijesinghe</h1>
 <h3 align="center">A passionate IT Student in Sri Lanka</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=buwaneka99&label=Profile%20views&color=0e75b6&style=flat" alt="buwaneka99" /> </p>
+
+---
+
+## **About me**
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </a>
 
-- 💎 I’m currently learning **Full-Stack Development**
-- 💡 Exploring **React, Node.js, and MongoDB**
-- 📑 Ask me about **Web Development and APIs**
-- 🛠 Fun fact: **I love to solve coding challenges!**
-- 💌 Reach me at **[buwanekawijesinghe1@gmail.com](mailto:buwanekawijesinghe1@gmail.com)**
 
----
+- 💎 I’m currently learning **Full-Stack Development**
+
+- 💡 Exploring **React, Node.js, and MongoDB**
+ 
+- 💬 Ask me about **Web Development and APIs**
+
+- ⚡ Fun fact: **I love to solve coding challenges!**
+
+- 📫 Reach me at **[buwanekawijesinghe1@gmail.com](mailto:buwanekawijesinghe1@gmail.com)**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b> Connect with me,</b>
