@@ -35,11 +35,11 @@
     <td width="50%" align="center">
       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buwaneka99&show_icons=true&theme=radical&locale=en" alt="buwaneka99" /></p>
       <br>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buwaneka99&" alt="buwaneka99" /></p>
       <br>     
       <br>
     </td>
-    <td width="50%" align="center">
-      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=buwaneka99&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    <td width="50%" align="center">      
     </td>
   </tr>
 </table>
