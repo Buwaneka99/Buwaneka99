@@ -35,8 +35,7 @@
     <td width="50%" align="center">
       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buwaneka99&show_icons=true&theme=radical&locale=en" alt="buwaneka99" /></p>
       <br>
-      <br>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buwaneka99&" alt="buwaneka99" /></p>
+      <br>     
       <br>
     </td>
     <td width="50%" align="center">
